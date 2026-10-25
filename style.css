@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: black;
+    height: 5rem;
+    width: 100%;
+    color: aliceblue;
+
+}
+
+.logo {
+    font-size: 1.5rem;
+    margin-top: 3rem;
+    
+
+}
+nav{
+    display: flex;
+    gap: 1rem;
+    font-size: 1rem;
+    justify-content: flex-end;
+    align-items: flex-end;
+
+}
+
+section{
+    margin: 1rem;
+    height: 10rem;
+    width: 35rem;
+    background-color: rgb(230, 225, 225);
+    border-color: rgba(78, 76, 76, 0.916);
+    border-width: 10rem;
+    border-radius: 1rem;
+    
+}
